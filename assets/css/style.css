@@ -1,0 +1,34 @@
+body  {
+    text-align: center;
+    color: white;
+    font-family: 'Roboto', sans-serif;
+  }
+  
+  h4 {
+    text-align: left;
+  }
+  
+  h5 {
+    text-align: left;
+  }
+  
+  p {
+    text-align: left;
+  }
+  
+  .izquierda img {
+    height: 180px;
+  }
+  
+  .fondon {
+    background: black;
+  }
+  
+  .colorb a i {
+      color: white;
+  }
+  
+  .division {
+    border-top: 4px solid;
+  
+  }
